@@ -6,7 +6,7 @@ CosmosSolution 是一套Cosmosbox游戏工作室使用的开发解决方案.
 游戏客户端:
 --------------
 * Unity3D游戏引擎
-* [https://github.com/Cosmosbox/CosmosEngine](CosmosEngine开发框架)
+* [CosmosEngine开发框架](https://github.com/Cosmosbox/CosmosEngine)
 * CosmosPro (CosmosEngine的再一层内部常用封装)
 
 
@@ -18,7 +18,7 @@ CosmosSolution 是一套Cosmosbox游戏工作室使用的开发解决方案.
 
 团队桌面小工具
 ---------------------
-* [https://github.com/mr-kelly/KKDaemon](KKDaemon - Windows托盘小工具，常用于Excel表编译)
+* [KKDaemon - Windows托盘小工具，常用于Excel表编译](https://github.com/mr-kelly/KKDaemon)
 
 版本管理
 ---------------------
